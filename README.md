@@ -1,9 +1,9 @@
 # glove_project
-haptic glove for oppo competition
+##haptic glove for oppo competition##
 
 **This project is a protytpe**
 
-*Important*
+***Important***
 
 This project is created using Unity 2019.2.13f1 version
 
